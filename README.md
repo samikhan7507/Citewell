@@ -281,7 +281,7 @@ docker run -p 8501:8501 -e GROQ_API_KEY=your_key citewell
 
 **Sami**
 
-[samikhan75076@gmail.com](mailto:samikhan75076@gmail.com) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/sami7507)
+[samikhan75076@gmail.com](mailto:samikhan57705@gmail.com) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/samikhan07)
 
 <sub>Released under the MIT License.</sub>
 
